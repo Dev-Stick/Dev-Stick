@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brain.dev
+- 👋 Hi, I’m @dev.stick
 - 👀 I’m interested in web application development and video game development
 - 🌱 I’m currently learning phyton, java and c sharp
 - 💞️ I’m looking to collaborate on on projects that are of interest to me and that contribute to my portfolio
